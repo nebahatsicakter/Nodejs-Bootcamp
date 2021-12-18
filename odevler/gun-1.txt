@@ -1,0 +1,4 @@
+1) js foreach ile map arasındaki fark nedir?
+
+* github account alınacak
+* nodejs ve vscode kurulacak

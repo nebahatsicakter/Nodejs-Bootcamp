@@ -1,0 +1,14 @@
+1) Ürünleri pahalıdan ucuza sırala ( sort metodu kullanarak ve KULLANMAYARAK )
+2) 
+
+
+bu apiyi incele
+https://northwind.vercel.app/api/orders
+
+* Brezilya dan kaç adert sipariş aldım
+* Brezilyadan aldığım siparişlerin toplam tutarı
+* Birezilyadan aldığım en yüksek sipariş
+
+
+Okunacaklar
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
